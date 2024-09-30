@@ -3,8 +3,8 @@ By and Copyright © 2024 Greg Abbott. All rights reserved.
 (Specification, markup syntax, converter, documentation, site)
 
 PRE-ALPHA
-At this early pre-alpha development stage, the project does not have a formal license.
-When the tool reaches an more stable version (an alpha/beta release level of finish),
+At this early pre-alpha development stage, the project has no formal license.
+When the tool reaches a more stable version (an alpha/beta release level of finish),
 I can consider a suitable license option for this software.
 
 NO WARRANTY
