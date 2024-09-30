@@ -1,0 +1,17 @@
+The Monotext Project
+By and Copyright © 2024 Greg Abbott. All rights reserved.
+(Specification, markup syntax, converter, documentation, site)
+
+PRE-ALPHA
+At this early pre-alpha development stage, the project does not have a formal license.
+When the tool reaches an more stable version (an alpha/beta release level of finish),
+I can consider a suitable license option for this software.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
